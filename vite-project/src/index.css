@@ -82,3 +82,12 @@ body {
 .card-content>p {
   margin: 1rem 0;
 }
+
+/* # Button */
+.btn {
+  border-radius: 0;
+  border: 0;
+  background-color: #daa420;
+  padding: 0.5rem;
+  cursor: pointer;
+}
